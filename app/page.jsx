@@ -213,7 +213,7 @@ export default function Page() {
                             <h2 className="text-3xl font-bold text-indigo-900 mb-4">Welcome to HiCitizen</h2>
                             <p className="text-gray-600 space-y-4">
                                 <span className="block">HiCitizen Academy is your gateway to English language excellence. We specialize in transforming learners into confident English communicators through our innovative teaching methods and personalized approach.</span>
-                                <span className="block">With over 5 years of experience and 1000+ success stories, we've established ourselves as a leading English language training institute.</span>
+                                <span className="block">With over 5 years of experience and 1000+ success stories, we have established ourselves as a leading English language training institute.</span>
                             </p>
                         </div>
                         <div className="grid grid-cols-2 gap-6">
